@@ -1,6 +1,6 @@
 package MyCodeChanges;
 
-public class X {
+public classXYZ {
 
 	public static void main(String[] args) {
 		int a=40;
